@@ -1,6 +1,6 @@
 import { SignupFormValues } from "@/utils/types";
 
-export const apiUrl = "https://muvment-api.up.railway.app/";
+export const apiUrl = "https://muvment-api.up.railway.app";
 
 export const fullNameRegEx = /^[A-Za-z'-]+\s[A-Za-z'-]+(?:\s[A-Za-z'-]+)*\s*$/;
 
